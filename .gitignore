@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except these files
+!README.md
+!Project.cpp
+
+# Keep .gitignore itself tracked
+!.gitignore
