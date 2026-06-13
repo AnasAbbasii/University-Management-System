@@ -3,7 +3,7 @@
 
 # Except these files
 !README.md
-!Project.cpp
+!Project .cpp
 !.gitignore
 
 # Keep .gitignore itself tracked
